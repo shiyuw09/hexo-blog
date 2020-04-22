@@ -23,8 +23,8 @@ SEOTitle: Joe's Blog | Joe 博客
 email: siyu115@gmail.com
 description: ""
 keyword: ""
-header-img: img/header_img/home-bg-2-dark.png
-signature: true #show signature
+header-img: img/header_img/joe.jpg
+signature: false #show signature
 signature-img: img/signature/BeanTechSign-white.png 
 
 
